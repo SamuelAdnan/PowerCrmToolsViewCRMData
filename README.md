@@ -18,7 +18,9 @@ PAT and Service connection name.
 
 ## Service connection (required for Task1 an Tash 2 but optional for task 3)
 ![Service connectiont](https://github.com/SamuelAdnan/PowerCrmToolsViewCRMData/blob/main/images/conimage.png?raw=true)
-Task 2 can only be used if we define the service connection and run the task 2
+Task 2 can only be used if we define the service connection and run the task 2.
+Morwe help about service connection and how to use them can be helpful in video below.
+
 # Video
 [![SC2 Video](https://github.com/SamuelAdnan/powercrmtools-manuel/blob/main/images/videolinkfile2.png?raw=true)](https://youtu.be/kDt3lm388UY)
 
